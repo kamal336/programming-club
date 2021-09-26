@@ -22,7 +22,6 @@ const Programmer = (props) => {
             </div>
           </div>
         </div>
-    
     );
 };
 
