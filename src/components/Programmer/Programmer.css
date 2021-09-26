@@ -1,0 +1,17 @@
+.programer-name{
+    color: rgb(23, 7, 247);
+}
+
+.programer-des{
+    color: rgb(123, 5, 173);
+}
+
+.card{
+    transition: 0.4s;
+   
+}
+
+.card:hover{
+    box-shadow: 0.8px 0.9px 20px rgb(206, 199, 199);
+    
+}
