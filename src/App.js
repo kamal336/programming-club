@@ -1,12 +1,12 @@
 import './App.css';
 import Header from './components/Header/Header';
-import ProgrammingFair from './components/ProgrammingFair/ProgrammingFair';
+import ProgrammingContest from './components/ProgrammingContest/ProgrammingContest';
 
 function App() {
   return (
     <div className="App">
      <Header />
-     <ProgrammingFair />
+     <ProgrammingContest />
     </div>
   );
 }

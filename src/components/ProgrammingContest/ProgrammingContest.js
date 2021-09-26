@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import Programmer from '../Programmer/Programmer';
-import Cart from './../Cart/Cart';
+import Cart from '../Cart/Cart';
 
-const ProgrammingFair = () => {
+const ProgrammingContest = () => {
     // set programmer 
     const [programmers,setProgrammers] = useState([]);
 
@@ -43,4 +43,4 @@ const ProgrammingFair = () => {
     );
 };
 
-export default ProgrammingFair;
+export default ProgrammingContest;
