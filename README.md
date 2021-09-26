@@ -1,4 +1,4 @@
-# Programming Contest Justice Panel
+# Programmer Club
 
 ### Website Link:
 https://programmer-club-kamal36.netlify.app/
