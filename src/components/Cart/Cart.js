@@ -3,7 +3,8 @@ import React from 'react';
 
 const Cart = (props) => {
     const {cart} = props;
-    
+   
+//    reduce function for total calculation 
    const total = cart.reduce((previusValue, current)=> previusValue + current.salary, 0);
     return (
         <div className="text-white border p-3">

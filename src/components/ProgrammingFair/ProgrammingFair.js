@@ -38,7 +38,7 @@ const ProgrammingFair = () => {
            <div className="col-md-3">
                <Cart cart={cart}/>
            </div>
-        </div>
+          </div>
         </div>
     );
 };

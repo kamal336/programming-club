@@ -2,8 +2,9 @@ import React from 'react';
 import './Programmer.css'
 
 const Programmer = (props) => {
+    //  destructuring 
     const {name,designation,img,lives,salary,website_link} = props.programmer;
-    console.log(props.programmer);
+   
     return (
         
         <div className="col-md-4 mb-3">
