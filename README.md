@@ -1,7 +1,7 @@
-# Programming Contest Justice Panel
+# Programmer Club
 
 ### Website Link:
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+https://programmer-club-kamal36.netlify.app/
 
 ### About Project
 - Programming Contest
